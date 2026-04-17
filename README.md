@@ -1,69 +1,86 @@
+
+
 # Beeswax 🐝🍯
 
 **Press Kit**
 
-Qui puoi trovare link, foto, info e qualsiasi tipo di materiale utile relativo a noi.
-Here you can find links, photos, info and anything useful related to us.
+Punk rock / grunge power trio from Bologna, Italy.
+Available for shows across Italy and EU.
 
----
+---------------------------------------
 
-## 📸 Socials
+## SOCIALS
 
-[Instagram](https://instagram.com/beeswax_band)
+Instagram → [https://instagram.com/beeswax_band](https://instagram.com/beeswax_band)
+Facebook → [https://www.facebook.com/Beeswaxgband/](https://www.facebook.com/Beeswaxgband/)
 
-[Facebook](https://www.facebook.com/Beeswaxgband/)
+---------------------------------------
 
----
+## MUSIC
 
-## 🎵 Music
+Spotify → [https://open.spotify.com/artist/6bpT4hjRMMd7fJThZq8Fnj](https://open.spotify.com/artist/6bpT4hjRMMd7fJThZq8Fnj)
+Bandcamp → [https://beeswaxband.bandcamp.com/album/beeswax-ep](https://beeswaxband.bandcamp.com/album/beeswax-ep)
 
-[Spotify](https://open.spotify.com/artist/6bpT4hjRMMd7fJThZq8Fnj)
+---------------------------------------
 
-[Bandcamp](https://beeswaxband.bandcamp.com/album/beeswax-ep)
+##  BIO
 
----
+🇮🇹
+Beeswax sono un power trio punk rock/grunge di Bologna, nati nel quartiere San Donato e cresciuti nell’ambiente underground del Vecchio Son.
 
-## 📰 Press & Media
+Attivi dal 2016, si sono costruiti una reputazione live con concerti diretti, rumorosi e senza filtri. Il loro approccio è fortemente DIY: pochi fronzoli, molta energia.
 
-*(coming soon)*
+Il suono mescola grunge, punk rock e garage: brani veloci, sporchi e immediati.
 
----
+Nel 2022 pubblicano il loro primo EP, *Beeswax*, registrato a Bologna (*Rehab*, *Time is Gone*, *Desire*).
 
-## 🧠 Bio
+Hanno condiviso il palco con diverse band della scena punk italiana, esibendosi tra club e spazi underground.
 
-Beeswax sono un power trio punk rock/grunge di Bologna, nati nel quartiere San Donato e cresciuti nell’ambiente underground del Vecchio Son. ([Spotify][1])
 
-Attivi dal 2016, costruiscono la loro identità soprattutto attraverso i live: concerti diretti, rumorosi e senza filtri, dove energia e attitudine DIY sono al centro di tutto. ([Covo Club][2])
+🇬🇧
+Beeswax are a punk rock/grunge power trio from Bologna, Italy, born in the San Donato district and shaped by the local underground scene.
 
-Il loro suono mescola grunge, punk rock e influenze garage, con brani veloci, sporchi e immediati. ([Beeswax][3])
+Active since 2016, they built a strong live reputation through raw, loud and unfiltered shows. Their approach is fully DIY: no frills, just energy.
 
-Nel 2022 pubblicano il loro primo EP, *Beeswax*, registrato a Bologna, che raccoglie tracce come *Rehab*, *Time is Gone* e *Desire*. ([Beeswax][3])
+Their sound blends grunge, punk rock and garage influences, delivering fast, dirty and straight-to-the-point songs.
 
-Hanno condiviso il palco con diverse realtà della scena punk italiana e continuano a muoversi tra club e spazi underground, mantenendo un approccio autentico e diretto. ([Covo Club][2])
+In 2022 they released their debut EP, *Beeswax*, recorded in Bologna (*Rehab*, *Time is Gone*, *Desire*).
 
----
+They have shared the stage with several bands from the Italian punk scene, playing clubs and underground venues.
 
-## 🖼️ Press Photos
+---------------------------------------
 
-![Beeswax live](https://www.instagram.com/p/Cxxxxxx/media/?size=l)
-![Beeswax band](https://www.instagram.com/p/Cxxxxxx/media/?size=l)
+## 🔊 LIVE HIGHLIGHTS
 
-*(temporary – replace with Drive folder or official photos)*
+* Attivi dal 2016
+* Decine di concerti tra club e spazi underground
+* Condivisione del palco con band della scena punk/alternative italiana
+* Forte attitudine DIY
 
----
+---------------------------------------
 
-## 🎛️ Tech Rider
+## 🖼️ PRESS PHOTOS
 
-*(coming soon)*
+*(link su cartelle drive Beeswax)*
 
----
+---------------------------------------
+
+## 🎛️ TECH RIDER
+
+(COMING SOON!!)
+
+---------------------------------------
+
+## ⚡ FOR PROMOTERS
+
+* Genre: Punk Rock / Grunge
+* Line-up: Power Trio
+* Based in: Bologna, Italy
+* Touring: Italy / EU
+
+---------------------------------------
 
 ## 📩 Contacts
 
-Booking / Management: *(your email here)*
+Booking / Management: *(beeswax.grungeband@gmail.com)*
 
----
-
-[1]: https://open.spotify.com/intl-it/artist/6bpT4hjRMMd7fJThZq8Fnj?utm_source=chatgpt.com "Beeswax"
-[2]: https://covoclub.it/en/evento/bee-bee-sea/?utm_source=chatgpt.com "Bee Bee Sea | Bologna"
-[3]: https://beeswaxband.bandcamp.com/album/beeswax-ep?utm_source=chatgpt.com "Beeswax(EP) | Beeswax - Bandcamp"

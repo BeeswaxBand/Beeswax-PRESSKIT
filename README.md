@@ -10,6 +10,7 @@ Here you can find links, photos, info and anything useful related to us.
 ## 📸 Socials
 
 [Instagram](https://instagram.com/beeswax_band)
+
 [Facebook](https://www.facebook.com/Beeswaxgband/)
 
 ---
@@ -17,6 +18,7 @@ Here you can find links, photos, info and anything useful related to us.
 ## 🎵 Music
 
 [Spotify](https://open.spotify.com/artist/6bpT4hjRMMd7fJThZq8Fnj)
+
 [Bandcamp](https://beeswaxband.bandcamp.com/album/beeswax-ep)
 
 ---

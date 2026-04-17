@@ -12,13 +12,17 @@ Available for shows across Italy and EU.
 ## SOCIALS
 
 Instagram → [https://instagram.com/beeswax_band](https://instagram.com/beeswax_band)
-Facebook → [https://www.facebook.com/Beeswaxgband/](https://www.facebook.com/Beeswaxgband/)
+
+Youtube   → [https://www.youtube.com/@Beeswax_OfficialSando)
+
+Facebook  → [https://www.facebook.com/Beeswaxgband/](https://www.facebook.com/Beeswaxgband/)
 
 ---------------------------------------
 
 ## MUSIC
 
 Spotify → [https://open.spotify.com/artist/6bpT4hjRMMd7fJThZq8Fnj](https://open.spotify.com/artist/6bpT4hjRMMd7fJThZq8Fnj)
+
 Bandcamp → [https://beeswaxband.bandcamp.com/album/beeswax-ep](https://beeswaxband.bandcamp.com/album/beeswax-ep)
 
 ---------------------------------------

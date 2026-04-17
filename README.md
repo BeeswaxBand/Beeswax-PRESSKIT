@@ -13,7 +13,7 @@ Available for shows across Italy and EU.
 
 Instagram → [https://instagram.com/beeswax_band](https://instagram.com/beeswax_band)
 
-Youtube   → [https://www.youtube.com/@Beeswax_OfficialSando)
+Youtube   → [https://www.youtube.com/@Beeswax_OfficialSando]
 
 Facebook  → [https://www.facebook.com/Beeswaxgband/](https://www.facebook.com/Beeswaxgband/)
 

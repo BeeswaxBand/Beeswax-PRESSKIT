@@ -1,59 +1,53 @@
 
 
-# Beeswax 🐝🍯
+# Beeswax-PRESSKIT 🐝🍯
+Qui puoi trovare link, foto, info e qualsisasi tipo di materiale utile relativo a noi.
 
-**Press Kit**
+Here you can find links, photos, info and anything useful related to us.
 
+-- da vedere se tenere\
 Punk rock / grunge power trio from Bologna, Italy.
 Available for shows across Italy and EU.
 
 ---------------------------------------
 
-## SOCIALS
+## 📸 SOCIALS
 
-Instagram → [https://instagram.com/beeswax_band](https://instagram.com/beeswax_band)
-
-Youtube   → [https://www.youtube.com/@Beeswax_OfficialSando]
-
-Facebook  → [https://www.facebook.com/Beeswaxgband/](https://www.facebook.com/Beeswaxgband/)
+[Instagram](https://instagram.com/beeswax_band)\
+[YouTube](https://www.youtube.com/@Beeswax_OfficialSando)\
+[Facebook](https://www.facebook.com/Beeswaxgband/)
 
 ---------------------------------------
 
-## MUSIC
+## 📩 Contacts
 
-Spotify → [https://open.spotify.com/artist/6bpT4hjRMMd7fJThZq8Fnj](https://open.spotify.com/artist/6bpT4hjRMMd7fJThZq8Fnj)
-
-Bandcamp → [https://beeswaxband.bandcamp.com/album/beeswax-ep](https://beeswaxband.bandcamp.com/album/beeswax-ep)
+E-mail: *beeswax.grungeband@gmail.com*
 
 ---------------------------------------
 
-##  BIO
+## 🎵 MUSIC
 
-🇮🇹
-Beeswax sono un power trio punk rock/grunge di Bologna, nati nel quartiere San Donato e cresciuti nell’ambiente underground del Vecchio Son.
+[Spotify](https://open.spotify.com/artist/6bpT4hjRMMd7fJThZq8Fnj)\
+[Bandcamp](https://beeswaxband.bandcamp.com/album/beeswax-ep)
 
-Attivi dal 2016, si sono costruiti una reputazione live con concerti diretti, rumorosi e senza filtri. Il loro approccio è fortemente DIY: pochi fronzoli, molta energia.
-
-Il suono mescola grunge, punk rock e garage: brani veloci, sporchi e immediati.
-
-Nel 2022 pubblicano il loro primo EP, *Beeswax*, registrato a Bologna (*Rehab*, *Time is Gone*, *Desire*).
-
-Hanno condiviso il palco con diverse band della scena punk italiana, esibendosi tra club e spazi underground.
-
-
-🇬🇧
-Beeswax are a punk rock/grunge power trio from Bologna, Italy, born in the San Donato district and shaped by the local underground scene.
-
-Active since 2016, they built a strong live reputation through raw, loud and unfiltered shows. Their approach is fully DIY: no frills, just energy.
-
-Their sound blends grunge, punk rock and garage influences, delivering fast, dirty and straight-to-the-point songs.
-
-In 2022 they released their debut EP, *Beeswax*, recorded in Bologna (*Rehab*, *Time is Gone*, *Desire*).
-
-They have shared the stage with several bands from the Italian punk scene, playing clubs and underground venues.
+Featured on [Panthers for Gaza](url)
 
 ---------------------------------------
 
+## Press & Media 📰📺
+--non so se aggiungerei una descrizione per ogni cosa o lascerei così
+
+[La recensione dell'EP di frabbo](url)\
+[Rusco zine](url)\
+[Quo.dNews](https://www.quodnews.com/2025/05/05/la-musica-ruvida-dei-beeswax-molto-grunge-e-molto-seattle/)
+
+[Penny Lane](https://www.youtube.com/watch?v=JALkNJOVlt0)\
+[Arterie](urlDelPodcastDaSpotify)\
+[Bologna_inunclick](https://www.instagram.com/p/DR9ujc2jK1O/)
+
+---------------------------------------
+
+-- da vedere se tenere
 ## 🔊 LIVE HIGHLIGHTS
 
 * Attivi dal 2016
@@ -63,18 +57,14 @@ They have shared the stage with several bands from the Italian punk scene, playi
 
 ---------------------------------------
 
-## 🖼️ PRESS PHOTOS
-
-*(link su cartelle drive Beeswax)*
-
----------------------------------------
-
+-- anche se "coming soon" io non lo metterei finché non sappiamo davvero come gestirla con luca e cosa comporta per i locali
 ## 🎛️ TECH RIDER
 
 (COMING SOON!!)
 
 ---------------------------------------
 
+-- meh, si può tenere ma lo vedo un po'fuori dallo scopo di un presskit
 ## ⚡ FOR PROMOTERS
 
 * Genre: Punk Rock / Grunge
@@ -82,9 +72,5 @@ They have shared the stage with several bands from the Italian punk scene, playi
 * Based in: Bologna, Italy
 * Touring: Italy / EU
 
----------------------------------------
 
-## 📩 Contacts
-
-Booking / Management: *(beeswax.grungeband@gmail.com)*
 

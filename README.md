@@ -41,7 +41,7 @@ Featured on [Panthers for Gaza](https://thepanthersparty.bandcamp.com/album/pant
 
 ---------------------------------------
 
-## 🎛️ TECH RIDER
+## 🎛️ BAND'S FOH ENGINEER (on demand)
 
 (COMING SOON!!)
 
